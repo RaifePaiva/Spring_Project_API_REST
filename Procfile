@@ -1,1 +1,1 @@
-java -Dserver.port=$PORT -Dspring.profiles.active=prod $JAVA_OPTS -jar target/spring-boot-starter-parent-2.2.6.RELEASE.jar
+java -Dserver.port=$PORT -Dspring.profiles.active=prod $JAVA_OPTS -jar target/Spring_project-0.0.1-SNAPSHOT.jar
